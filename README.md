@@ -1,2 +1,2 @@
 # customer-tracker
-Customer tracker with Spring Boot, Hibernate and Thymeleaf
+CRUD Customer tracker App with Spring Boot, Hibernate and Thymeleaf
