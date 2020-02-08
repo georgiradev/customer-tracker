@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.my-app</groupId>
     <artifactId>customer-tracker</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>customer-tracker-app</name>
     <description>Customer Tracker with Spring Boot</description>
 
