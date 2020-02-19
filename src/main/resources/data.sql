@@ -1,8 +1,8 @@
 DELETE FROM `customer`;
 
-INSERT INTO `customer` VALUES
-	(1,'David','Adams','david@gmail.com'),
-	(2,'John','Doe','john@gmail.com'),
-	(3,'Ajay','Rao','ajay@gmail.com'),
-	(4,'Mary','Public','mary@gmail.com'),
-	(5,'Maxwell','Dixon','max@gmail.com');
+INSERT INTO `customer`(`first_name`, `last_name`, `email`) VALUES
+	('David','Adams','david@gmail.com'),
+	('John','Doe','john@gmail.com'),
+	('Ajay','Rao','ajay@gmail.com'),
+	('Mary','Public','mary@gmail.com'),
+	('Maxwell','Dixon','max@gmail.com');
